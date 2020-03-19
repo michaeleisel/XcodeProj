@@ -14,8 +14,17 @@
         "package": "PathKit",
         "repositoryURL": "https://github.com/michaeleisel/PathKit",
         "state": {
+          "branch": "me-temp-fast",
+          "revision": "b4369c680d2982865cba1aec2158fa0f47c9b398",
+          "version": null
+        }
+      },
+      {
+        "package": "PathKitCExt",
+        "repositoryURL": "https://github.com/michaeleisel/PathKitCExt.git",
+        "state": {
           "branch": "master",
-          "revision": "c8f12353bca8c252713fd2e2fbc5789c39ff92f8",
+          "revision": "67692a524701e481386047e432b08564cee1ea29",
           "version": null
         }
       },
